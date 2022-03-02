@@ -1,0 +1,24 @@
+body{
+    background-color: pink;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+
+button{
+    position: -webkit-sticky; /* 사파리 브라우저 지원 */
+    position: sticky;    
+    padding: 24px;
+    top: 10px;
+    right: 10px;
+    border: none;
+    color:white;
+    font-size: 32px;
+    background-color: tomato;
+    cursor: pointer;
+
+}
